@@ -1,10 +1,10 @@
-#### The code is for the paper below:
+#Partial Multi-view Clustering via Consistent GAN#
 
-**Qianqian Wang, Zengming Ding, Zhiqiang Tao, Quanxue Gao and Yun Fu, Partial Multi-view Clustering via Consistent GAN, IEEE ICDM, 2018: 1290-1295.**  
-@inproceedings{partialWANG18,  
-  title={Partial Multi-View Clustering via Consistent GAN},  
-  author={Wang, Qianqian and Ding, Zhengming and Tao Zhiqiang and Gao Quanxue and Fu Yun},  
-  booktitle={ICDM},  
-  pages={1290--1295},  
-  year={2018}  
-}  
+**PVC-GAN Model:**
+
+<div style="text-align: center; width: 900px; border: green solid 1px;">
+<img src="./Images/frame.jpg"  width="700"    title="Network Model" alt="Network Model" style="display: inline-block;"/>
+<br></br>
+<center>Figure 1: Network Model</center>
+</div>
+

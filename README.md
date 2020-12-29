@@ -1,4 +1,5 @@
-**Partial Multi-view Clustering via Consistent GAN**
+<font size=15>**Partial Multi-view Clustering via Consistent GAN**</font>
+
 
 This repo contains the source code and dataset for our ICDM paper:
 
@@ -68,4 +69,5 @@ python train.py
 **Acknowledgments**
 
 Code is inspired by [VIGAN](https://github.com/chaoshangcs/VIGAN) [CycleGAN](https://github.com/chaoshangcs/pytorch-CycleGAN-and-pix2pix).
+
 

@@ -1,4 +1,4 @@
-#Partial Multi-view Clustering via Consistent GAN#
+**Partial Multi-view Clustering via Consistent GAN**
 
 This repo contains the source code and dataset for our ICDM paper:
 

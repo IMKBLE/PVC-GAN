@@ -6,14 +6,17 @@ This repo contains the source code and dataset for our ICDM paper:
 
 [paper link](https://ieeexplore.ieee.org/abstract/document/8594983)
 
-@inproceedings{2018Partial,  
-   title={Partial Multi-view Clustering via Consistent GAN},  
-   author={ Wang, Qianqian  and  Ding, Zhengming  and  Tao, Zhiqiang  and  Gao, Quanxue  and  Fu, Yun },  
-   booktitle={2018 IEEE International Conference on Data Mining (ICDM)},  
-   year={2018},  
+@inproceedings{wang2018partial,  
+  title={Partial multi-view clustering via consistent GAN},  
+  author={Wang, Qianqian and Ding, Zhengming and Tao, Zhiqiang and Gao, Quanxue and Fu, Yun},  
+  booktitle={IEEE ICDM},  
+  pages={1290--1295},  
+  year={2018},  
 }  
 
+This model has been extended to partial multi-view clustering on TIP： 
 
+[Qianqian Wang, Zhengming Ding, Zhiqiang Tao, Quanxue Gao, Yun Fu, Generative Partial Multi-View Clustering with Adaptive Fusion and Cycle Consistency, IEEE Transactions on Image Processing, 2021.](https://github.com/IMKBLE/GP-MVC)
 
 **PVC-GAN Model:**
 
@@ -38,16 +41,11 @@ With the development of data collection and feature extraction methods, nowadays
 </div>
 
 <div style="text-align: center; width: 900px; border: green solid 1px;">
-<img src="./Images/missdata_3.jpg"  width="700">
+<img src="./Images/missdata.jpg"  width="700">
 <br></br>
 <center>Figure 3: Illustration for multi-view data</center>
 </div>
 
-<div style="text-align: center; width: 900px; border: green solid 1px;">
-<img src="./Images/cycle.jpg"  width="700">
-<br></br>
-<center>Figure 4: The framework of cycle GAN</center>
-</div>
 
 
 **Dataset:**

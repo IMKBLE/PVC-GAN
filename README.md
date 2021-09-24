@@ -54,8 +54,13 @@ With the development of data collection and feature extraction methods, nowadays
  BDGP is a two-view database. One is visual view and the other is textual view. It contains 2,500 images about drosophila embryos belonging to 5 categories. Each image is represented by a 1,750-D visual vector and a 79-D textual feature vector. In our experiment, we use all data on BDGP database, and evaluate the performance on both visual feature and textual feature.
 
 **Requirements**  
-Python 3.6  
-PyTorch 1.0  
+
+Python: Python 3.6.2：  
+Pytorch: 0.1.12  
+Numpy: 1.13.1  
+TorchVision: 0.1.8  
+Cuda: 11.2  
+
 **Train the model**  
 <!--
 <table><tr><td bgcolor=Gainsboro	 width="900">python train.py  </td></tr></table>  
